@@ -38,7 +38,7 @@ O principal objetivo desta atividade é compreender e implementar duas arquitetu
 ## 🚀 Como Executar
 
 1. Clone este repositório.
-2. Abra o notebook `MLP_CNN.ipynb` no [Google Colab](https://colab.research.google.com/) ou ambiente Jupyter.
+2. Abra o notebook `MLP_CNN.ipynb` no [Google Colab](https://colab.research.google.com/drive/1cSFEYra8w3t4U_1XFqoRT0X-ZznpkO1x?usp=sharing) ou ambiente Jupyter.
 3. Execute célula por célula.
 4. Experimente modificar hiperparâmetros como taxa de aprendizado, função de ativação ou dropout.
 
